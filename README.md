@@ -20,3 +20,9 @@ Projekts tiks realizēts un pilnveidots ar programmēšanas valodas "Python" un 
 Programma būs pieejama tikai datoros, kas ierobežo tās lietošanas ērtumu.
 
 Python programmatūras izpides ātrums ir salīdzinoši lēns, kas varētu ilgtermiņā radīt neērtības.
+
+## Autori
+
+Rinalds Veinbergs
+Rihards Krusts
+
