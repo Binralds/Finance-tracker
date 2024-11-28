@@ -1,6 +1,6 @@
 ## Kas?
 
-Finanšu izsekotājprogramma, kura padarīs izkdienas tēriņu apkopošanu un pārraudzību ērtu un efektīvu.
+Finanšu izsekotājprogramma, kura veiks lietotāja tēriņu apkopojumu un vizualizāciju. Mērķis ir padarīt ikdienas tēriņu apkopošanu un pārraudzību ērtu un efektīvu.
 
    
 
