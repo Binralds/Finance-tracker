@@ -118,7 +118,6 @@ while True:
             else:
                 print("No transactions found in the given period.")
 
-            # ✅ Pievienota jauna izvēle pēc Transaction Review
             menu3 = input("\nWould you like to see the expense summary? (Y/N):").strip().upper()
 
             if menu3 == "Y" and not df_transactions.empty:
