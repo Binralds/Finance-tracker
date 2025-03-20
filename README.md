@@ -1,27 +1,24 @@
-## Kas?
+## What?
 
-Finanšu izsekotājprogramma, kura veiks lietotāja tēriņu apkopojumu un vizualizāciju. Mērķis ir padarīt ikdienas tēriņu apkopošanu un pārraudzību ērtu un efektīvu.
-
-   
+A financial tracker that will summarize and visualize the user's spending. The goal is to make compiling and monitoring daily spending convenient and efficient.
 
 
-  
-## Kāpēc?
+## Why?
 
-Mūsdienu cilvēka uzmanība un laiks ir ļoti pieprasīti resursi, tādēļ mūsu mērķis ir padarīt vērienīgu ikdienas darbu, kurš lielai daļai cilvēku sagādā galvassāpes, par ātru un vieglu procesu.
+The attention and time of a modern day person are highly demanded resources, so our goal is to make this time consuming, however crutial chore a quick and easy process.
+
 ## Kā?
 
-Projekts tiks realizēts un pilnveidots ar programmēšanas valodas "Python" un tajā atrodamo paplašinājumu palīdzību, ar lietotāju datu saglabāšanu balstoties uz datu bāzi no "mySQL".
+The project will be implemented and developed using the programming language "Python" and its extensions, with user data stored based on a database from "SQLite".
 
-Šīs programmatūras tika izvēlētas, balstoties uz to popularitāti un atbilstību projekta mērķiem.
+The software were selected based on their popularity and relevance to the project goals.
 
-## Ierobežojumi
+## Shortcomings
 
-Programma būs pieejama tikai datoros, kas ierobežo tās lietošanas ērtumu.
+This program is only available on PC, which limits the ease of use
+Python is generally slower than other computer languages, which could lead to inconveniences in the long run.
 
-Python programmatūras izpides ātrums ir salīdzinoši lēns, kas varētu ilgtermiņā radīt neērtības.
-
-## Autori
+## Authors
 
 Rinalds Veinbergs
 Rihards Krusts
