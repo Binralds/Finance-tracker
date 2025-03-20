@@ -7,7 +7,7 @@ A financial tracker that will summarize and visualize the user's spending. The g
 
 The attention and time of a modern day person are highly demanded resources, so our goal is to make this time consuming, however crutial chore a quick and easy process.
 
-## Kā?
+## How?
 
 The project will be implemented and developed using the programming language "Python" and its extensions, with user data stored based on a database from "SQLite".
 
