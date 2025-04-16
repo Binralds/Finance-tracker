@@ -5,7 +5,7 @@ A financial tracker that will summarize and visualize the user's spending. The g
 
 ## Why?
 
-The attention and time of a modern day person are highly demanded resources, so our goal is to make this time consuming, however crutial chore a quick and easy process.
+The attention and time of a modern day person are highly demanded resources, so our goal is to make this time consuming, however crucial chore a quick and easy process.
 
 ## How?
 
