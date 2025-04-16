@@ -23,3 +23,7 @@ Python is generally slower than other computer languages, which could lead to in
 Rinalds Veinbergs
 Rihards Krusts
 
+## Libraries
+
+To install all of the necessary libraries download the "requirements.txt" file,
+and launch a following command in the control panel of your device : pip install -r requirements.txt
