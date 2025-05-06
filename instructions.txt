@@ -2,7 +2,7 @@ Instructions :
 
 We are happy that You have chosen our project "fe!nance", so here are a few simple steps to get You ready to go : 
 
-First of all You will need to download the "requirements.txt" file and launch it in the terminal of Your device - this downloads all the necessary libraries for this program to function correctly
+First of all You will need to download the "requirements.txt" file and launch it in the terminal of Your device - this downloads all the necessary libraries for this program to function correctly (NOTE : WONT WORK IF PYTHON IS ABSCENT ON THE COMPUTER; FOR THIS TURN TO STEP "Second.2")
 
 Second - download the "main.py" file, It is the main file that stores all the code You will need
 
