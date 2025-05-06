@@ -1,0 +1,11 @@
+Instructions : 
+
+We are happy that You have chosen our project "fe!nance", so here are a few simple steps to get You ready to go : 
+
+First of all You will need to download the "requirements.txt" file and launch it in the terminal of Your device - this downloads all the necessary libraries for this program to function correctly
+
+Second - download the "main.py" file, It is the main file that stores all the code You will need
+
+Second.2 - the launch of this file requires the presence of a valid virtual enviroment, so here is a guide to getting Your hands onto one : 
+
+Third - enjoy :) if any complications arise make sure to contact us, we will get back to You as soon as possible!
